@@ -32,6 +32,7 @@ B
 ```
 Would give the following output
 
+```
 JSON files found:
 1. Table_A.json
 2. Table_B.json
@@ -47,3 +48,4 @@ Rows in Table_A.json not in Table_B.json:
 Rows in Table_B.json not in Table_A.json:
 
 Discrepancies in record 2: ColB
+```
