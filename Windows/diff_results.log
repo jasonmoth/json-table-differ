@@ -1,0 +1,5 @@
+2024-07-15 22:12:57,216 - INFO - Rows in Table_A.json not in Table_B.json: 
+1
+2024-07-15 22:12:57,216 - INFO - Rows in Table_B.json not in Table_A.json: 
+
+2024-07-15 22:12:57,216 - INFO - Discrepancies in record 2: ColB
